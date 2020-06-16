@@ -6,7 +6,11 @@ Train SVM &amp; KNN model for face recognition with the help of "The world's sim
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - [face_recognition](https://github.com/ageitgey/face_recognition)
 
-## preprocess & build.py output
+## Dataset
+[LFW Face Database](http://vis-www.cs.umass.edu/lfw/)
+Used for training: 40 labels, 10 samples each.
+
+## Output `preprocess & build.py`
 - SVM model gets 96% test accuracy
 - KNN model gets 98% test accuracy
 
