@@ -2,3 +2,5 @@ Dataset/
 train_data/
 *.zip
 *.rar
+*.ipynb
+*.h5
