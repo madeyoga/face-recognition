@@ -2,12 +2,12 @@ import os
 import numpy as np
 import cv2
 import face_recognition
-from sklearn import svm
-from sklearn.model_selection import train_test_split
 
 from sklearn import svm
+from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score
+
 import pickle
 
 path = 'Dataset/'
