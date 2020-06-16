@@ -14,7 +14,7 @@ Train SVM &amp; KNN model for face recognition with the help of "The world's sim
 - SVM model gets 96% test accuracy
 - KNN model gets 98% test accuracy
 
-## test.py output
+## Test on Random Image from Google
 *Using SVM model*
 
 ![BillGates2](https://github.com/madeyoga/face-recognition/blob/master/output/output2.png)
