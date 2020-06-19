@@ -1,5 +1,7 @@
 # face-recognition
-Train SVM &amp; KNN model for face recognition with the help of "The world's simplest facial recognition api for Python and the command line"
+[![CodeFactor](https://www.codefactor.io/repository/github/madeyoga/face-recognition/badge/master)](https://www.codefactor.io/repository/github/madeyoga/face-recognition/overview/master)
+
+Easy way to Train SVM &amp; KNN model for face recognition with the help of "The world's simplest facial recognition api for Python and the command line"
 
 ## Dependencies
 - [opencv-python](https://pypi.org/project/opencv-python/)
